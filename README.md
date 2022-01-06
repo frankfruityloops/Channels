@@ -53,7 +53,8 @@ Custom Channels for PS3™ 4K Pro with only working streaming apps.
 | NPEB01229 | Youtube |
 | NPEB02350 | YuppTV  |⠀⠀⠀⠀⠀ X
 | NPUP31377 | TubiTV |⠀⠀⠀⠀⠀ X
-  
+ 
+ 
  # Not Working Apps (Terminated)
   
 | TITLE ID  | TITLE NAME | NO-PSN PATCHED
