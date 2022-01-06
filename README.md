@@ -9,51 +9,50 @@ Custom Channels for PS3™ 4K Pro with only working streaming apps.
 
 | TITLE ID  | TITLE NAME | NO-PSN PATCHED
 |-----------|------------|-------------
-| ABCD12345 | ABC iView |⠀⠀⠀⠀⠀ X
-| ABCD12345 | All4 |⠀⠀⠀⠀⠀ X
-| ABCD12345 | Amazon Prime |⠀⠀⠀⠀⠀ X
-| ABCD12345 | AnimeLab |⠀⠀⠀⠀⠀ X
-| ABCD12345 | Cinepolis |
-| ABCD12345 | ClanTv |⠀⠀⠀⠀⠀ X
-| ABCD12345 | Crackle |⠀⠀⠀⠀⠀ X
-| ABCD12345 | Crunchyroll |⠀⠀⠀⠀⠀ X
-| ABCD12345 | Dansk Filmskat |⠀⠀⠀⠀⠀ X
-| ABCD12345 | Dazn |
-| ABCD12345 | Film1 |
-| ABCD12345 | Filmy |⠀⠀⠀⠀⠀ X
-| ABCD12345 | Foxtel Play |
-| ABCD12345 | GameOne |⠀⠀⠀⠀⠀ X
-| ABCD12345 | HBO Nordic |⠀⠀⠀⠀⠀ X
-| ABCD12345 | HULU |⠀⠀⠀⠀⠀ X
-| ABCD12345 | IHeart |
-| ABCD12345 | iPla |
-| ABCD12345 | Maxdome |
-| ABCD12345 | Meo VideoClub |⠀⠀⠀⠀⠀ X
-| ABCD12345 | Min Bio |
-| ABCD12345 | Mlbtv |⠀⠀⠀⠀⠀ X
-| ABCD12345 | Mubi |
-| ABCD12345 | MultiPlayer.it |⠀⠀⠀⠀⠀ X
-| ABCD12345 | NFL |
-| ABCD12345 | Netflix |⠀⠀⠀⠀⠀ X
-| ABCD12345 | NRKSuper |
-| ABCD12345 | N´K TV |
-| ABCD12345 | Pathé Thuis |
-| ABCD12345 | Plex |
-| ABCD12345 | Rakuten-TV |
-| ABCD12345 | Red Bull |
-| ABCD12345 | RTBF |
-| ABCD12345 | Spotify |
-| ABCD12345 | Stan |
-| ABCD12345 | Torne |
-| ABCD12345 | TV 2 Sumo |⠀⠀⠀⠀⠀ X
-| ABCD12345 | TV 3 |⠀⠀⠀⠀⠀ X
-| ABCD12345 | Twitch | ⠀⠀⠀⠀⠀ X
-| ABCD12345 | Vevo | ⠀⠀⠀⠀⠀ X
-| ABCD12345 | Via Play |
-| ABCD12345 | Vudu |⠀⠀⠀⠀⠀ X
-| ABCD12345 | Youtube |
-| ABCD12345 | YuppTV  |⠀⠀⠀⠀⠀ X
-| ABCD12345 | TubiTV |⠀⠀⠀⠀⠀ X
+| NPEB02205 | ABC iView |⠀⠀⠀⠀⠀ X
+| NPEB01271 | All4 |⠀⠀⠀⠀⠀ X
+| NPEB00344 | Amazon Prime |⠀⠀⠀⠀⠀ X
+| NPEB02357 | AnimeLab |⠀⠀⠀⠀⠀ X
+| NPUP31348 | Cinepolis |
+| NPEB02080 | ClanTv |⠀⠀⠀⠀⠀ X
+| NPUP00077 | Crackle |⠀⠀⠀⠀⠀ X
+| NPUP10027 | Crunchyroll |⠀⠀⠀⠀⠀ X
+| NPEB02344 | Dansk Filmskat |⠀⠀⠀⠀⠀ X
+| NPEB02391 | Dazn |
+| NPEB02412 | Film1 |
+| XXXXXXXXX | Filmy |⠀⠀⠀⠀⠀ X
+| NPEB02003 | Foxtel Play |
+| NPEB01941 | GameOne |⠀⠀⠀⠀⠀ X
+| NPEB02292 | HBO Nordic |⠀⠀⠀⠀⠀ X
+| NPUP00046 | HULU |⠀⠀⠀⠀⠀ X
+| NPUP31352 | IHeart |
+| NPEB00703 | iPla |
+| NPEB01192 | Maxdome |
+| NPEB01906 | Meo VideoClub |⠀⠀⠀⠀⠀ X
+| NPEB02345 | Min Bio |
+| NPUP31353 | Mlbtv |⠀⠀⠀⠀⠀ X
+| NPEB02149 | Mubi |
+| NPEB01990 | MultiPlayer.it |⠀⠀⠀⠀⠀ X
+| NPUO00019 | NFL |
+| NPUP00030 | Netflix |⠀⠀⠀⠀⠀ X
+| NPEB02136 | NRKSuper |
+| NPEB02137 | N´K TV |
+| NPEB01974 | Pathé Thuis |
+| NPEB02214 | Plex |
+| NPEB01813 | Rakuten-TV |
+| NPEB02455 | Red Bull |
+| NPEB01429 | RTBF |
+| NPEB02222 | Spotify |
+| NPEB02362 | Stan |
+| NPEB01956 | TV 2 Sumo |⠀⠀⠀⠀⠀ X
+| NPEB02166 | TV 3 |⠀⠀⠀⠀⠀ X
+| NPEB02359 | Twitch | ⠀⠀⠀⠀⠀ X
+| NPEB02212 | Vevo | ⠀⠀⠀⠀⠀ X
+| NPEB00863 | Via Play |
+| NPUP00047 | Vudu |⠀⠀⠀⠀⠀ X
+| NPEB01229 | Youtube |
+| NPEB02350 | YuppTV  |⠀⠀⠀⠀⠀ X
+| NPUP31377 | TubiTV |⠀⠀⠀⠀⠀ X
   
  # Not Working Apps (Terminated)
   
@@ -148,5 +147,5 @@ Custom Channels for PS3™ 4K Pro with only working streaming apps.
 | ABCD12345 | Yle Arena |⠀Not Needed⠀
 | ABCD12345 | Yonvi |⠀Not Needed⠀
   
- # Credits
- All credits goes to the respective developers.
+# Credits
+All credit goes to the respective developers and @esc0rtd3w for the NO-PSN patches.
