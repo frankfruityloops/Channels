@@ -4,6 +4,8 @@
 Custom Channels for PS3™ 4K Pro with only working streaming apps.
 
 ![MyChannels](https://user-images.githubusercontent.com/74815634/148345792-afd64880-a01d-4004-b8af-e1f2ec836257.png)
+![Not-Patched](https://user-images.githubusercontent.com/74815634/148502163-9ecc0d56-cd53-424b-9f38-4c5fbcd12ae5.png)
+![Patched](https://user-images.githubusercontent.com/74815634/148502151-525c9661-428d-4ebe-b774-f73582243f61.png)
 
 # Working Apps
 
