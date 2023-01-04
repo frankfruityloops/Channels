@@ -119,7 +119,7 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<!-- HBO Nordic -->		
+		<!-- HBO Nordic ( Discontinued January 8 2022)	
 		<mtrl id="14" mname="HBO Nordic - No Psn" from="2015-10-21T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2017-12-07T10:54:19.000Z" anno="">
 			<desc>HBO</desc>
 			<url type="117">http://nsx.np.dl.playstation.net/nsx/material/6/6a946122b3d3ce9c5c4163b8a5347a6a199ca06d-1185300.png</url>
@@ -127,7 +127,7 @@
 			<target type="u">psgm:install?contentid=EP8806-NPEB02292_00-WEBMAF0HBONORDIC&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/HBO_Nordic_v1.11.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl>
+		</mtrl> -->
 		<!-- Hulu -->
 		<mtrl id="15" mname="Hulu - No Psn" from="2018-02-27T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2020-01-29T19:29:54.000Z" anno="">
 			<desc>Hulu</desc>
@@ -182,7 +182,7 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<!-- MLB TV -->
+		<!-- MLB TV (Discontinued)
 		<mtrl id="21" mname="MLB TV - No Psn" from="2014-03-24T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2016-04-04T23:18:08.000Z" anno="">
 			<desc>MLB.TV®</desc>
 			<url type="118">http://nsx.np.dl.playstation.net/nsx/material/0/00571da45bfbe8dd7ecf70056f4e5e59f747bc54-732629.jpg</url>
@@ -190,7 +190,7 @@
 			<target type="u">psgm:install?contentid=UP0181-NPUP31353_00-MLBTVPS3US000001&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/MLB_TV_v2.95.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl>
+		</mtrl> -->
 		<!-- Movian -->
 		<mtrl id="22" mname="Movian - Unofficial" from="2014-12-10T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2014-12-10T14:38:32.000Z" anno="">
 			<desc>Movian</desc>
@@ -226,7 +226,7 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<!-- NFL -->	
+		<!-- NFL (Discontinued)	
 		<mtrl id="26" mname="NFL" from="2014-03-12T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2014-03-12T14:29:30.000Z" anno="">
 			<desc>NFL</desc>
 			<url type="117">http://github.com/PS3-4K-Pro/Channels/raw/main/media/nfl.png</url>
@@ -234,7 +234,7 @@
 			<target type="u">psgm:install?contentid=UP9002-NPUO00019_00-NFLTVPS3STREAM01&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/DirecTV_NFL_v6.01.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl>
+		</mtrl> -->
 		<!-- NºK TV -->			
 		<mtrl id="27" mname="NºK TV - Official" from="2018-02-27T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2020-01-29T19:42:01.000Z" anno="">
 			<desc>NRK TV</desc>
@@ -280,7 +280,7 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<!-- Red Bull TV -->	
+		<!-- Red Bull TV (Discontinued) 	
 		<mtrl id="32" mname="Red Bull TV - Official" from="2017-08-21T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2017-08-21T15:35:40.000Z" anno="">
 			<desc>Red Bull TV</desc>
 			<url type="117">http://nsx.np.dl.playstation.net/nsx/material/c/c8f5ff911245380f98ec6d46527a9aa5f5b6101d-1178057.png</url>
@@ -288,7 +288,7 @@
 			<target type="u">psgm:install?contentid=EP8842-NPEB02455_00-GREDBULLTV000001&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/RedBull_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl>
+		</mtrl> -->
 		<!-- RTBF -->
 		<mtrl id="33" mname="RTBF - Official" from="2013-07-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2013-07-01T14:20:52.000Z" anno="">
 			<desc>RTBF</desc>
@@ -316,7 +316,7 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<!-- Tubi TV -->
+		<!-- Tubi TV (Discontinued 03/2021) 
 		<mtrl id="36" mname="Tubi TV - Official" from="2017-06-20T07:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2017-11-21T19:28:45.000Z" anno="fixed=1">
 			<desc>Tubi TV</desc>
 			<url type="117">http://github.com/PS3-4K-Pro/Channels/raw/main/media/tubi.png</url>
@@ -324,7 +324,7 @@
 			<target type="u">psgm:install?contentid=UP8834-NPUP31377_00-TUBITVPS30000000&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Tubi_TV_v1.02.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl>
+		</mtrl> -->
 		<!-- TV2 Sumo -->
 		<mtrl id="37" mname="TV2 Sumo - No Psn" from="2015-01-19T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-01-19T17:47:35.000Z" anno="">
 			<desc>TV2 Sumo</desc>
