@@ -1,7 +1,7 @@
 <div align="center"> 
 
 # Channels
-Custom Channels for PS3™ 4K Pro with only working streaming apps.
+Custom Channels for PS3™ FAT Pro with only working streaming apps.
 
 ![MyC hannels](https://user-images.githubusercontent.com/74815634/148345792-afd64880-a01d-4004-b8af-e1f2ec836257.png)
  
@@ -154,4 +154,4 @@ Custom Channels for PS3™ 4K Pro with only working streaming apps.
 ![Not Patches](https://user-images.githubusercontent.com/74815634/148670661-2ee2c9cd-767c-4476-8ee3-a299e2081de6.png)
   
 # Credits
-All credit goes to the respective developers and @esc0rtd3w for the NO-PSN patches.
+All credit goes to the respective developers and @frankfruityloops.
